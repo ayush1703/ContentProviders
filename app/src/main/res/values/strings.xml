@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ContentProviders</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="button_title">Enter</string>
+
+    <string name="display_data">Click</string>
+
+    <string name="append_data">Click to add new row</string>
+</resources>
